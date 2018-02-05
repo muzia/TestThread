@@ -45,6 +45,23 @@ public class ReportTask {
         }
 
     }
+   /* public static synchronized void staticReport2() {
+
+            //持有锁的对象为ReportTest的class对象
+            System.out.println("2号业务员进办公室");
+            try {
+                System.out.println("2号业务员开始汇报");
+                Thread.sleep(1000);
+
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+
+            System.out.println("2号业务员汇报完毕");
+            System.out.println("2号业务员出办公室");
+
+
+    }*/
 
     String window = "window";
 
