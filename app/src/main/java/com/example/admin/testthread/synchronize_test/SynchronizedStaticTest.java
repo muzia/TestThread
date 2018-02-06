@@ -1,4 +1,4 @@
-package com.example.admin.testthread.runableTest;
+package com.example.admin.testthread.synchronize_test;
 
 /**
  * Created by lifei on 2018/2/5.
